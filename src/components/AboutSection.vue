@@ -34,7 +34,7 @@ import { portfolioData } from '../data/portfolio'
                 <!-- Main Narrative -->
                 <div class="text-slate-300 text-sm md:text-base leading-relaxed space-y-4">
                   <p>
-                    I am a <span class="text-primary-brand font-semibold">Mechatronics & AI Systems Engineer</span> passionate about leveraging technology for community empowerment. From leading the development of <span class="text-white font-medium">"RCC Mafishi"</span> (Zambia's first university-built electric vehicle) and serving as President of the Copperbelt University Robotics Club (2023-2024) to co-founding the <span class="text-white font-medium">Mukuba Unipod Tech Expo</span>, I have dedicated myself to fostering innovation.
+                    I am a <span class="text-primary-brand font-semibold">Mechatronics & AI Systems Engineer</span> passionate about leveraging technology for community empowerment. From leading the development of <span class="text-white font-medium">"RCC Mafishi"</span> (Zambia's first university-built electric vehicle) and serving as Vice President (2023) and President (2024) of the Copperbelt University Robotics Club to co-founding the <span class="text-white font-medium">Mukuba Unipod Tech Expo</span>, I have dedicated myself to fostering innovation.
                   </p>
                   <p>
                     I believe deeply in the <span class="text-primary-brand font-semibold">"Ubuntu Spirit"</span> giving back to the community by mentoring students and supporting innovators through fundraising and prototyping support.

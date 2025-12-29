@@ -267,8 +267,8 @@ export const portfolioData = {
         },
         {
             organization: "The Copperbelt University Robotics Club",
-            role: "President (2024) & Vice President (2023)",
-            period: "2023 – 2024",
+            role: "Vice President (2023) & President (2024)",
+            period: "2023, 2024",
             description: "Transformed the club into a premier innovation hub through strategic leadership.",
             points: [
                 "Expanded membership from 30 to 65 active members through engaging project initiatives.",
