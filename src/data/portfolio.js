@@ -139,6 +139,15 @@ export const portfolioData = {
     ],
     blogs: [
         {
+            title: "UNDP’s Timbuktoo Initiative Pioneers R&D for Zambia’s Youth",
+            date: "Mar 2024",
+            readTime: "6 min",
+            category: "Innovation",
+            description: "UNDP launched the Mukuba UniPod at Copperbelt University, bridging the gap between R&D and product creation to empower Africa's youth as industrial catalysts.",
+            image: "/blog2.png",
+            link: "https://www.undp.org/africa/stories/undps-timbuktoo-initiative-pioneers-research-and-development-space-zambias-youth"
+        },
+        {
             title: "From Concept to Creation: Building a Fully Functional Drone",
             date: "Dec 2023",
             readTime: "8 min",
