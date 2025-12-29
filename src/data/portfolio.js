@@ -139,6 +139,15 @@ export const portfolioData = {
     ],
     blogs: [
         {
+            title: "The Mukuba University Innovation Pod (UniPod): Who We Are",
+            date: "Jan 2024",
+            readTime: "7 min",
+            category: "Innovation Hub",
+            description: "The first ever dedicated space in Zambia for innovation, combining academic expertise with state-of-the-art equipment to empower young innovators under the UNDP's timbuktoo initiative.",
+            image: "/blog4.png",
+            link: "https://www.cbu.ac.zm/unipod/website/about.php"
+        },
+        {
             title: "Robotics Club x Mukuba UniPod: Home Grown Engineering Solutions",
             date: "Oct 2024",
             readTime: "5 min",
