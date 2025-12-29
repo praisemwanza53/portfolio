@@ -351,8 +351,7 @@ export const portfolioData = {
         tiktok: "https://tiktok.com/@prais529",
         grabcad: "https://grabcad.com/praise.mwanza-3",
         medium: "https://medium.com/@mwanzapraise700",
-        email: "praisemwanza@uniplexityai.com",
-        secondaryEmail: "praise@uniplexityai.com",
+        email: "praise@uniplexityai.com",
         phone: "+260970397095"
     }
 };

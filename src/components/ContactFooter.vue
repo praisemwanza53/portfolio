@@ -59,7 +59,6 @@ const scrollToTop = () => {
               <Mail :size="16" class="mr-3 text-primary-brand mt-0.5" />
               <div class="flex flex-col text-left">
                 <span>{{ portfolioData.socials.email }}</span>
-                <span>{{ portfolioData.socials.secondaryEmail }}</span>
               </div>
             </li>
             <li class="flex items-center justify-center sm:justify-start text-slate-400 font-bold text-[10px] md:text-xs uppercase tracking-wider">
