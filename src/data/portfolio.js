@@ -15,6 +15,16 @@ export const portfolioData = {
     },
     projects: [
         {
+            title: "Conveyor Belt with Adaptive Speed Control",
+            description: "A mentoring and training project developed with a group of mentees in 2025. This system features adaptive speed control mechanisms, demonstrating practical application of automation principles for educational purposes.",
+            image: "/conveyor1.png",
+            images: ["/conveyor1.png", "/conveyor2.png"],
+            link: "#",
+            status: "Mentorship Project",
+            impact: "Used to train mentees in automation, sensor integration, and control systems.",
+            tags: ["Mentorship", "Automation", "Control Systems", "Education"]
+        },
+        {
             title: "Kula Kids – AI-Powered Literacy System",
             description: "A hybrid literacy platform where African stories meet adaptive intelligence. Providing personalized learning paths for students and actionable analytics for teachers through culturally grounded content.",
             image: "/kulakids.png",
@@ -161,7 +171,7 @@ export const portfolioData = {
             date: "Mar 2024",
             readTime: "6 min",
             category: "Innovation",
-            description: "UNDP launched the Mukuba UniPod at Copperbelt University, bridging the gap between R&D and product creation to empower Africa's youth as industrial catalysts.",
+            description: "Drawing inspiration from Uganda's achievements in e-mobility, Praize remarks, \"In 2011, a student team designed an electric car and scaled up to become a major company named Kiira Motors. The company is now projected to employ over 100,000 workers. That's the future we're striving for, and with UNDP’s timbuktoo assistance, we can attain it.\"",
             image: "/blog2.png",
             link: "https://www.undp.org/africa/stories/undps-timbuktoo-initiative-pioneers-research-and-development-space-zambias-youth"
         },
