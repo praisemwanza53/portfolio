@@ -139,6 +139,15 @@ export const portfolioData = {
     ],
     blogs: [
         {
+            title: "Robotics Club x Mukuba UniPod: Home Grown Engineering Solutions",
+            date: "Oct 2024",
+            readTime: "5 min",
+            category: "Tech Expo",
+            description: "Following the success of the inaugural Tech Expo, this second edition showcased innovations addressing sustainable technology, future mobility, and digital solutions for global impact.",
+            image: "/blog3.png",
+            link: "https://www.cbu.ac.zm/unipod/website/roboticsclub.php"
+        },
+        {
             title: "UNDP’s Timbuktoo Initiative Pioneers R&D for Zambia’s Youth",
             date: "Mar 2024",
             readTime: "6 min",
